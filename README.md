@@ -1,1 +1,2 @@
-# StreamAPI_numbers
+# Задача 1: Работа с числами
+## StreamAPI
